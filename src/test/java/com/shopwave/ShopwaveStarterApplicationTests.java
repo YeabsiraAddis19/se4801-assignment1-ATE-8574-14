@@ -1,4 +1,5 @@
-package com.shopwave.shopwavestarter;
+// Student Number: ATE/8574/14
+package com.shopwave;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
